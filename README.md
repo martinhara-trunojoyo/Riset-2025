@@ -120,7 +120,3 @@ Modul ini dirancang untuk membantu mahasiswa atau peneliti memahami dan mengimpl
 - Library: `PyEMD`, `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `tensorflow`/`pytorch`, `optuna`
 
 ---
-
-## ✨ Catatan Tambahan
-Modul ini cocok digunakan sebagai bagian dari riset akademik atau skripsi, terutama yang berkaitan dengan analisis time series, prediksi wisatawan, atau pengelolaan pariwisata berbasis data.
-
